@@ -38,9 +38,8 @@ namespace GGPOSharp
         /// <returns></returns>
         bool LoadGameState(byte[] buffer, int len);
         /// <summary>
-        /// Used in diagnostic testing.  The client should use
-        /// the ggpo_log function to write the contents of the specified save
-        /// state in a human readible form.
+        /// Used in diagnostic testing. GGPO will only call this function when using
+        /// the synctest debugging tool.
         /// </summary>
         /// <param name="filename"></param>
         /// <param name="buffer"></param>

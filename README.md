@@ -11,7 +11,6 @@ As described from the GGPO repository:
 I recommend taking a look at the [documentation](https://github.com/pond3r/ggpo/tree/master/doc) on the GGPO repo.
 
 ## Todo
-- [ ] Add wrappers for ggpo_log and ggpo_logv functions
 - [ ] Write some example code (in the meantime, check the [VectorWar](https://github.com/pond3r/ggpo/tree/master/src/apps/vectorwar) example at the GGPO repository)
 - [ ] Finish writing documentation
 - [ ] NuGet package
